@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Input = () => {
+const Todoitem = () => {
   return (
     <div>
       
@@ -8,4 +8,4 @@ const Input = () => {
   )
 }
 
-export default Input
+export default Todoitem
